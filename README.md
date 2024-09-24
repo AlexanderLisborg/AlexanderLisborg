@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! My name is Alexander, I'm a student currently working on my bachelors in computer science.
+
+Interests: computer graphics, games, algorithms
+
