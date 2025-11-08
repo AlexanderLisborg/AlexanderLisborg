@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Alexander, I'm a student currently working on my bachelors in computer science.
+Hello! My name is Alexander, I'm a creative programmer with too many ideas in my head.
 
-Interests: computer graphics, games, algorithms
+Interests: computer graphics, game engines, optimization
 
